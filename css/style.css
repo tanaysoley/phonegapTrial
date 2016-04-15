@@ -1,0 +1,35 @@
+.red{
+	background-color:#A91616;
+	color:#FF8686;
+}
+
+.green{
+	background-color:#128712;
+	color:#6ED16E;
+}
+
+.yellow{
+	background-color:#FFAA00;
+	color:#FFDE9C;
+}
+
+body{
+	font-family: "Roboto", SANS-SERIF;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+
+#number{
+	font-size: 16em;
+}
+
+#message{
+	font-weight: bold;
+}
+
+#container{
+	top: calc( 50% - 160px );
+	position: absolute;
+	width: 100%;
+}
